@@ -1,11 +1,31 @@
 {
-  "apps": {
-    "com.almanasa.guard": {
+  "apps": [
+    {
+      "package": "com.almanasa.guard",
       "name": "حارس المنصة",
+      "desc": "حماية الأطفال من المحتوى الضار — تنظيف وتسريع وحظر وفلترة",
       "versionCode": 1,
       "versionName": "1.0",
       "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk",
       "notes": "الإصدار الأول"
+    },
+    {
+      "package": "com.jabor.cinemana",
+      "name": "سينمانا",
+      "desc": "أفلام ومسلسلات من مكتبة سينمانا، مع بث مباشر ومباريات وتقييمات",
+      "versionCode": 3,
+      "versionName": "3.0",
+      "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana.apk",
+      "notes": "صفحات المخرجين والممثلين، المباريات والتنبيهات، النقل من الهاتف إلى التلفزيون"
+    },
+    {
+      "package": "com.tubeland.tv",
+      "name": "TubeLand",
+      "desc": "بديل آمن ليوتيوب للأطفال",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/TubeLand.apk",
+      "notes": "تحسينات"
     }
-  }
+  ]
 }

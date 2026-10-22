@@ -12,6 +12,15 @@
 
 الإصدار الحالي: **1.0** — الإصدار الأول.
 
+
+## 📦 تطبيقات عيادة المنصة
+
+| التطبيق | الوصف | التحميل |
+|---|---|---|
+| 🛡 حارس المنصة | حماية الأطفال من المحتوى الضار | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk) |
+| 🎬 سينمانا | أفلام ومسلسلات وبث مباشر ومباريات — للتلفزيون والهاتف | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana.apk) |
+| 🧸 TubeLand | بديل آمن ليوتيوب للأطفال | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/TubeLand.apk) |
+
 ---
 
 ## ماذا يفعل حارس المنصة؟
