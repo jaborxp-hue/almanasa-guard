@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "com.almanasa.guard": {
+      "name": "حارس المنصة",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "url": "https://github.com/jaborxp-hue/almanasa-guard/releases/download/v1.0/Almanasa-Guard.apk",
+      "notes": "الإصدار الأول"
+    }
+  }
+}
