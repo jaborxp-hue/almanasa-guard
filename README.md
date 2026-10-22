@@ -8,9 +8,9 @@
 
 ## ⬇️ التحميل
 
-**[اضغط هنا لتحميل آخر نسخة من حارس المنصة](https://github.com/jaborxp-hue/almanasa-guard/releases/latest/download/Almanasa-Guard.apk)**
+**[اضغط هنا لتحميل آخر نسخة من حارس المنصة](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk)**
 
-أو افتح صفحة [الإصدارات](https://github.com/jaborxp-hue/almanasa-guard/releases) لرؤية كل النسخ وما الجديد فيها.
+الإصدار الحالي: **1.0** — الإصدار الأول.
 
 ---
 
