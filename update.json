@@ -4,28 +4,36 @@
       "package": "com.almanasa.guard",
       "name": "حارس المنصة",
       "desc": "حماية الأطفال من المحتوى الضار — تنظيف وتسريع وحظر وفلترة",
-      "versionCode": 2,
-      "versionName": "1.1",
+      "versionCode": 5,
+      "versionName": "1.4",
       "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk",
-      "notes": "متجر المنصة لتثبيت تطبيقات العيادة وتحديثها تلقائياً كل 3 ساعات"
+      "notes": "يعرف نوع الجهاز، زر رجوع، بحث تلقائي عن الشاشات واقتران أندرويد 11+، تثبيت الحارس على الأجهزة الأخرى، تثبيت صامت، قفل التطبيقات برقم سري، قسم الترفيه والألعاب"
     },
     {
       "package": "com.jabor.cinemana",
       "name": "سينمانا",
       "desc": "أفلام ومسلسلات من مكتبة سينمانا، مع بث مباشر ومباريات وتقييمات",
-      "versionCode": 3,
-      "versionName": "3.0",
+      "versionCode": 4,
+      "versionName": "3.1",
       "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana.apk",
-      "notes": "صفحات المخرجين والممثلين، المباريات والتنبيهات، النقل من الهاتف إلى التلفزيون"
+      "notes": "زر رجوع وزر خروج من المشغّل على الهاتف والجهاز اللوحي"
     },
     {
       "package": "com.tubeland.tv",
       "name": "TubeLand",
       "desc": "بديل آمن ليوتيوب للأطفال",
-      "versionCode": 2,
-      "versionName": "1.1",
+      "versionCode": 4,
+      "versionName": "1.3",
       "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/TubeLand.apk",
-      "notes": "تحسينات"
+      "notes": "تحكم باللمس: تقديم وإرجاع 10 ثوانٍ، سحب شريط التقدّم، الصوت، زر رجوع"
+    },
+    {
+      "package": "com.shababcreative.cinemanaplustv",
+      "name": "CinemanaPlus TV",
+      "desc": "واجهة أخرى لمكتبة سينمانا للتلفزيون",
+      "developer": "CinemanaPlus",
+      "page": "https://cinemanaplus.github.io/",
+      "url": ""
     }
   ]
 }
