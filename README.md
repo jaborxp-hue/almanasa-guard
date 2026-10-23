@@ -10,16 +10,16 @@
 
 **[اضغط هنا لتحميل آخر نسخة من حارس المنصة](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk)**
 
-الإصدار الحالي: **1.4** — للتلفزيون والهاتف والجهاز اللوحي.
+الإصدار الحالي: **1.5** — للتلفزيون والهاتف والجهاز اللوحي.
 
 
 ## 📦 تطبيقات عيادة المنصة
 
 | التطبيق | الوصف | التحميل |
 |---|---|---|
-| 🛡 حارس المنصة 1.4 | حماية الأطفال من المحتوى الضار | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk) |
+| 🛡 حارس المنصة 1.5 | حماية الأطفال من المحتوى الضار | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk) |
 | 🎬 سينمانا 3.1 | أفلام ومسلسلات وبث مباشر ومباريات — للتلفزيون والهاتف | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana.apk) |
-| 🧸 TubeLand 1.3 | بديل آمن ليوتيوب للأطفال | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/TubeLand.apk) |
+| 🧸 TubeLand 1.4 | بديل آمن ليوتيوب للأطفال | [تحميل](https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/TubeLand.apk) |
 
 ---
 
