@@ -33,7 +33,10 @@
       "desc": "واجهة أخرى لمكتبة سينمانا للتلفزيون",
       "developer": "CinemanaPlus",
       "page": "https://cinemanaplus.github.io/",
-      "url": ""
+      "url": "",
+      "versionCode": 0,
+      "versionName": "",
+      "notes": ""
     }
   ]
 }
