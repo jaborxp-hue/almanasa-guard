@@ -4,10 +4,10 @@
       "package": "com.almanasa.guard",
       "name": "حارس المنصة",
       "desc": "حماية الأطفال من المحتوى الضار — تنظيف وتسريع وحظر وفلترة",
-      "versionCode": 6,
-      "versionName": "1.5",
+      "versionCode": 7,
+      "versionName": "1.6",
       "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Almanasa-Guard.apk",
-      "notes": "تحديث ذاتي احتياطي بإشعار عندما يكون التحكم مغلقاً، ومفتاح توقيع دائم لعيادة المنصة"
+      "notes": "منظّم مهام: المهام بالدور مع شريط تقدّم ولا تتداخل، تكمل بعد الانقطاع، شارة اتصال واضحة، تثبيت صامت على هواوي، المتجر أسرع وأثبت"
     },
     {
       "package": "com.jabor.cinemana",
