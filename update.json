@@ -13,10 +13,10 @@
       "package": "com.jabor.cinemana",
       "name": "سينمانا",
       "desc": "أفلام ومسلسلات من مكتبة سينمانا، مع بث مباشر ومباريات وتقييمات",
-      "versionCode": 4,
-      "versionName": "3.1",
-      "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana.apk",
-      "notes": "زر رجوع وزر خروج من المشغّل على الهاتف والجهاز اللوحي"
+      "versionCode": 5,
+      "versionName": "3.2",
+      "url": "https://github.com/jaborxp-hue/almanasa-guard/raw/main/apk/Cinemana-3.2.apk",
+      "notes": "أزرار جديدة في المشغّل مع الحلقة التالية والسابقة وقائمة الحلقات، عدّ تنازلي 20 ثانية للحلقة التالية، وآخر حلقة فقط من كل مسلسل في متابعة المشاهدة"
     },
     {
       "package": "com.tubeland.tv",
